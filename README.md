@@ -1,1 +1,3 @@
-# optimum-integral-design-python
+# Python Code for Optimum Integral Design
+
+$$\int$$
