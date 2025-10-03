@@ -1,3 +1,3 @@
 # Python Code for Optimum Integral Design
 
-$$\int$$
+Code for optimizing magnetic field harmonics.
