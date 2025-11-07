@@ -1,0 +1,2 @@
+# A general config file for this magnet code
+# Need to plot just in the first quandrant, then I can reflect

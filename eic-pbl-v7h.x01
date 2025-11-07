@@ -1,0 +1,9 @@
+ $FCNX VC2CB=.TRUE.,VC2CE=.TRUE.,MAGTYPE=2,LAYERS=2,RFEMM=110,R0MM=40.,
+       RBENDMM=10,NBEND=10 &end
+  3 3 0.6 1.1 57. 800 0.4 0.20
+  3 3 0.6 1.1 58.5 800 0.4 0.20
+ B2 0.  1.
+ B4 0.  1.
+ b6 0.  2.
+ b8 0.  3.
+ b10 0.  4.
